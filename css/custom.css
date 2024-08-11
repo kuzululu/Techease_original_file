@@ -1,0 +1,26 @@
+body{
+	margin: 0;
+	padding: 0;
+	max-width: 100%;
+	scroll-behavior: smooth;
+	box-sizing: border-box;
+}
+
+.toggleIcon:hover{
+	cursor: pointer;
+}
+
+.ui-datepicker{
+	z-index: 9999 !important;
+}
+
+/*#footer{
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+}*/
+
+textarea{
+	resize: none !important;
+}
